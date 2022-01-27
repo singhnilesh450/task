@@ -1,2 +1,2 @@
 [build]
-publish="dist"
+command = “CI= npm run build”
